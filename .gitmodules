@@ -1,0 +1,3 @@
+[submodule "vectorvoxel"]
+	path = vectorvoxel
+	url = https://github.com/BIQ-Cat/vectorvoxel
