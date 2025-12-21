@@ -1,3 +1,6 @@
 [submodule "vectorvoxel"]
 	path = vectorvoxel
 	url = https://github.com/BIQ-Cat/vectorvoxel
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk
