@@ -1,4 +1,4 @@
-file(GLOB hdrs "*.h") # команда для работы с файлами
+file(GLOB hdrs "*.h")
 file(GLOB srcs "*.cpp")
 
-add_library(ParserSGB STATIC ${srcs} ${hdrs})
+add_library(ParserSGB SHARED ${srcs} ${hdrs})
